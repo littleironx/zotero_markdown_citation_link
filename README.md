@@ -8,7 +8,7 @@ The js file is modified based on [nescheid's](https://gist.github.com/nschneid/3
 
 ## How to use?
 
-After installation, right click at the item and select quick copy items(alt1 or alt2) or set a shortcut key, then you can paste the citation with the item link to any other markdown editor, such as Obsidian or Siyuan.
+After installation, right click at the item and select quick copy items(alt1 or alt2) or set a shortcut key, then you can paste the citation with the item link to any other markdown editor, such as Obsidian or Siyuan. Then you can easily go back to the zotero item through the item link.
 
 for expamle, for this item
 
@@ -18,5 +18,5 @@ we can get "[Chen & Murtazashvili(2023)](zotero://select/items/0_FL7IE3S9)" in p
 
 ## installation
 
-the installation is same as [Guillawme‘s]([url](https://github.com/Guillawme/zotero-doi-link-quickcopy)https://github.com/Guillawme/zotero-doi-link-quickcopy) method.
+the installation is same as [Guillawme‘s](https://github.com/Guillawme/zotero-doi-link-quickcopy) method.
 
